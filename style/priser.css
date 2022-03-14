@@ -1,0 +1,50 @@
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.kontakt span {
+    color: #55918a;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+hr .prisliste {
+    background-color: #eee;
+    height: 1px;
+}
+
+.priser {
+    margin: 15px;
+}
+
+
+h2 {
+    padding-top: 30px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.time-table {
+    position:relative;
+    justify-content: center;
+    overflow: hidden;
+    padding-left: 90px;
+}
+
+tbody {
+    text-align: center;
+}
+
+td {
+    font-size: 16.5px;
+}
